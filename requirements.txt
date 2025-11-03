@@ -1,0 +1,19 @@
+# Calorie Calculator - Requirements
+# 
+# This project uses only Python standard library modules.
+# No external dependencies are required for basic functionality.
+#
+# Required Python Version: 3.6 or higher
+#
+# Standard Library Modules Used:
+# - No external packages required
+# - Built-in modules: input, print, float, int, str
+#
+# Installation:
+# 1. Ensure Python 3.6+ is installed on your system
+# 2. Clone the repository
+# 3. Run: python3 calorie_calculator.py
+#
+# For development:
+# - Python 3.6+ recommended
+# - No virtual environment setup required
